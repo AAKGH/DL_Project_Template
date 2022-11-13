@@ -1,0 +1,1 @@
+# This is a project skeleton template for a deep learning project 
